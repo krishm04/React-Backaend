@@ -1,0 +1,8 @@
+{
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js,json",
+  "ignore": ["uploads/"],
+  "watch": ["src/", "routes/", "models/"]
+}
